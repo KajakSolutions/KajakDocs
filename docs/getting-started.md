@@ -1,6 +1,6 @@
 # Introduction to KajakEngine
 
-KajakEngine is a lightweight yet powerful 2D game engine specifically designed for creating top-down racing games. Built with modern JavaScript/TypeScript, it provides developers with a complete framework for creating engaging racing experiences with realistic physics, AI opponents, and various gameplay mechanics.
+KajakEngine is a lightweight yet powerful 2D game engine specifically designed for creating top-down racing games. Built with modern TypeScript, it provides developers with a complete framework for creating engaging racing experiences with realistic physics, AI opponents, and various gameplay mechanics.
 
 ## What is KajakEngine?
 

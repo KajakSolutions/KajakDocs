@@ -6,7 +6,7 @@ Kajak Racing is a 2D arcade-style racing game featuring dynamic weather effects,
 ## Getting Started
 
 ### Installation
-1. Clone the repository: `git clone https://github.com/your-username/kajakracing.git`
+1. Clone the repository: `git clone https://github.com/KajakSolutions/KajakEngine.git`
 2. Install dependencies: `npm install`
 3. Start the game: `npm run dev`
 4. Open in browser: `http://localhost:5173`

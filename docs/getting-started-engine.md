@@ -7,15 +7,15 @@ This guide will walk you through setting up your first project with KajakEngine 
 KajakEngine can be installed through npm:
 
 ```bash
-npm install kajak-engine
+npm i @kajaksolutions/kajakengine
 ```
 
 Or using your preferred package manager:
 
 ```bash
-yarn add kajak-engine
+yarn add @kajaksolutions/kajakengine
 # or
-pnpm add kajak-engine
+pnpm add @kajaksolutions/kajakengine
 ```
 
 ## Basic Setup
@@ -286,7 +286,7 @@ Create a JSON file named `simple-track.json` in an `assets` folder:
 Now you can run your game by serving your HTML file with a local development server:
 
 ```bash
-npx vite
+npm run dev
 # or any other local server
 ```
 
